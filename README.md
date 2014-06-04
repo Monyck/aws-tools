@@ -1,7 +1,7 @@
 aws-tools
 =========
-# AWS Missing Tools
-AWS Missing Tools is a suite of tools that extends Amazon's provided command line tools. The tools are described below:
+# AWS Tools
+AWS Tools is a suite of tools that extends Amazon's provided command line tools. The tools are described below:
 
 ## aws-ephemeral-swap
 use ephemeral disk as swap space, automatically
